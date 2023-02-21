@@ -22,4 +22,3 @@ This part is about the essential Python libraries for data science. It includes 
 This part is about the essantial projects for data science. It includes 3 most common projects that focus on classification and regression.
 1. Titanic
 2. House Prices
-3. Digit Recognizer
