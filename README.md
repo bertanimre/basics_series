@@ -8,7 +8,8 @@ This part is about the essentials of the Python programming language. It explain
 3. Functional Programming
 4. Object-Oriented Programming
 5. Debugging
-In this part, I was inspired by the Complete Python Bootcamp From Zero to Hero in Python course (https://www.udemy.com/course/complete-python-bootcamp/) and its repository (https://github.com/Pierian-Data/Complete-Python-3-Bootcamp).
+
+In this part, I was inspired by the Complete Python Bootcamp From Zero to Hero in Python course (https://www.udemy.com/course/complete-python-bootcamp/).
 
 ## basics_series_libraries
 This part is about the essential Python libraries for data science. It includes 5 most common libraries for data analysis, data visualization, and machine learning.
@@ -17,6 +18,8 @@ This part is about the essential Python libraries for data science. It includes 
 3. matplotlib
 4. seaborn
 5. sckit-learn
+
+In this part, I was inspired by the Python for Data Science and Machine Learning Bootcamp course (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/).
 
 ## basics_series_projects
 This part is about the essantial projects for data science. It includes 3 most common projects that focus on classification and regression.
