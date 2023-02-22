@@ -25,3 +25,5 @@ In this part, I was inspired by the Python for Data Science and Machine Learning
 This part is about the essantial projects for data science. It includes 3 most common projects that focus on classification and regression.
 1. Titanic
 2. House Prices
+
+In this part, I was inspired by Kaggle website (https://www.kaggle.com/).
